@@ -8,7 +8,7 @@
 
 
 ## Video
-
+* [Motion-based Segmentation and Recognition Dataset](https://mi.eng.cam.ac.uk/research/projects/VideoRec/CamVid/)
 
 ## Mixed and Other Data Types
 * [IIIT-D Multi-sensor Optical and Latent Fingerprint (MOLF)](http://www.iab-rubric.org/resources/molf.html)

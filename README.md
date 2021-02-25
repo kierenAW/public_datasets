@@ -24,4 +24,3 @@ New datasets are welcome please submit a [pull request](https://github.com/kiere
 * [Unconstrained Fingerphoto Database (UNFIT)](http://iab-rubric.org/resources/UNFIT.html)
 * [IIITD SMARTPHONE FINGER-SELFIE DATABASE V2](http://iab-rubric.org/resources/spfd2.html)
 
-

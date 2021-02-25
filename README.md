@@ -7,8 +7,8 @@ New datasets are welcome please submit a [pull request](https://github.com/kiere
 * [Imagenet](http://image-net.org/)
 
 ## Text
-
-
+* [Total-Text-Dataset](https://github.com/cs-chan/Total-Text-Dataset)
+* [Pytorch Text Datasets](https://pytorch.org/text/stable/datasets.html)
 
 ## Video
 * [Motion-based Segmentation and Recognition Dataset](https://mi.eng.cam.ac.uk/research/projects/VideoRec/CamVid/)

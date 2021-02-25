@@ -1,5 +1,5 @@
 # Public Datasets
-This is a list of publicly availalbe  datasets that may interest researchers, remember to check the licence and useage restrictions for each dataset.
+This is a list of publicly availalbe  datasets that may interest to researchers, remember to check the licence and use restrictions for each dataset.
 
 New datasets are welcome please submit a [pull request](https://github.com/kierenAW/public_datasets/pulls)
 

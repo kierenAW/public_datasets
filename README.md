@@ -14,7 +14,7 @@
 ## Mixed and Other Data Types
 * [IIIT-D Multi-sensor Optical and Latent Fingerprint (MOLF)](http://www.iab-rubric.org/resources/molf.html)
 * [Spoofed Fingerphoto Database](http://iab-rubric.org/resources/sfd.html)
-* [Bag-of-Lies Database](http://iab-rubric.org/resources/BagLies.html)/
+* [Bag-of-Lies Database](http://iab-rubric.org/resources/BagLies.html)
 * [Social-Media Posted Finger-selfie (SMPF) Database](http://iab-rubric.org/resources/smpf.html)
 * [Image Analysis and Biometrics Lab @ IIIT Delhi](http://www.iab-rubric.org/resources/mlfpd.html)
 * [IIITD SmartPhone Fingerphoto Database v1 (ISPFDv1)](http://iab-rubric.org/resources/spfd.html)

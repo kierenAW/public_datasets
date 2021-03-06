@@ -9,6 +9,7 @@ New datasets are welcome please submit a [pull request](https://github.com/kiere
 ## Text
 * [Total-Text-Dataset](https://github.com/cs-chan/Total-Text-Dataset)
 * [Pytorch Text Datasets](https://pytorch.org/text/stable/datasets.html)
+* [Pile: An 800GB Dataset of Diverse Text for Language Modeling](https://pile.eleuther.ai/)
 
 ## Video
 * [Motion-based Segmentation and Recognition Dataset](https://mi.eng.cam.ac.uk/research/projects/VideoRec/CamVid/)

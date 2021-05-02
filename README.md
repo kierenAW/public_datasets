@@ -5,6 +5,7 @@ New datasets are welcome please submit a [pull request](https://github.com/kiere
 
 ## Images
 * [Imagenet](http://image-net.org/)
+* [CIFAR-10](https://www.cs.toronto.edu/~kriz/cifar.html)
 
 ## Text
 * [Total-Text-Dataset](https://github.com/cs-chan/Total-Text-Dataset)

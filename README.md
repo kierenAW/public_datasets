@@ -15,6 +15,12 @@ New datasets are welcome please submit a [pull request](https://github.com/kiere
 ## Video
 * [Motion-based Segmentation and Recognition Dataset](https://mi.eng.cam.ac.uk/research/projects/VideoRec/CamVid/)
 
+## 3D Data
+* [3DMatch](http://3dmatch.cs.princeton.edu/)
+* [Princeton ModelNet](https://modelnet.cs.princeton.edu/)
+* [Stanford 2D-3D-Semantics Dataset (2D-3D-S)](http://buildingparser.stanford.edu/dataset.html)
+* [ScanNet](http://www.scan-net.org/)
+
 ## Mixed and Other Data Types
 * [IIIT-D Multi-sensor Optical and Latent Fingerprint (MOLF)](http://www.iab-rubric.org/resources/molf.html)
 * [Spoofed Fingerphoto Database](http://iab-rubric.org/resources/sfd.html)

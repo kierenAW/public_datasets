@@ -3,6 +3,8 @@ This is a list of publicly availalbe  datasets that may interest to researchers,
 
 New datasets are welcome please submit a [pull request](https://github.com/kierenAW/public_datasets/pulls)
 
+[Wikipedia](https://en.wikipedia.org/wiki/List_of_datasets_for_machine-learning_research) also has a large list of datasets.
+
 ## Images
 * [Imagenet](http://image-net.org/)
 * [CIFAR-10](https://www.cs.toronto.edu/~kriz/cifar.html)

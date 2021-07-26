@@ -26,6 +26,7 @@ New datasets are welcome please submit a [pull request](https://github.com/kiere
 ## Structured
 
 ### Demographic and Social
+* [World Mortality Dataset](https://github.com/akarlinsky/world_mortality)
 
 ### SARS-CoV-2 and Related 
 * [COVID-19 Data Repository by the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University](https://github.com/CSSEGISandData/COVID-19)

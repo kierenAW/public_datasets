@@ -32,7 +32,13 @@ New datasets are welcome please submit a [pull request](https://github.com/kiere
 ### SARS-CoV-2 and Related 
 * [COVID-19 Data Repository by the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University](https://github.com/CSSEGISandData/COVID-19)
 * [COVID-19 Dataset by Our World in Data](https://github.com/owid/covid-19-data)
-
+* [Oxford Covid-19 Government Response Tracker (OxCGRT)](https://github.com/OxCGRT/covid-policy-tracker)
+* [Brazilian Sub-National Covid-19 Policy Responses](https://github.com/OxCGRT/Brazil-covid-policy)
+* [USA state level Covid-19 Policy Responses](https://github.com/OxCGRT/USA-covid-policy)
+* [COVID-19 Data with daily ICUs occupancy for Algeria](https://github.com/yasserkaddour/covid19-icu-data-algeria)
+* [Israel Ministry of Health COVID-19 Dashboard](https://datadashboard.health.gov.il/COVID-19/general)
+* [GOV.UKCoronavirus (COVID-19) in the UK](https://coronavirus.data.gov.uk/details/healthcare)
+* [European Centre for Disease Prevention and Control hospital and ICU admission rates and current occupancy for COVID-19](https://www.ecdc.europa.eu/en/publications-data/download-data-hospital-and-icu-admission-rates-and-current-occupancy-covid-19)
 
 ## Mixed and Other Data Types
 * [IIIT-D Multi-sensor Optical and Latent Fingerprint (MOLF)](http://www.iab-rubric.org/resources/molf.html)

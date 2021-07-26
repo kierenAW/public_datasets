@@ -23,6 +23,13 @@ New datasets are welcome please submit a [pull request](https://github.com/kiere
 * [Stanford 2D-3D-Semantics Dataset (2D-3D-S)](http://buildingparser.stanford.edu/dataset.html)
 * [ScanNet](http://www.scan-net.org/)
 
+## Structured
+
+### SARS-CoV-2 and Related 
+* [COVID-19 Data Repository by the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University](https://github.com/CSSEGISandData/COVID-19)
+* [COVID-19 Dataset by Our World in Data](https://github.com/owid/covid-19-data)
+
+
 ## Mixed and Other Data Types
 * [IIIT-D Multi-sensor Optical and Latent Fingerprint (MOLF)](http://www.iab-rubric.org/resources/molf.html)
 * [Spoofed Fingerphoto Database](http://iab-rubric.org/resources/sfd.html)

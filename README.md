@@ -41,6 +41,7 @@ New datasets are welcome please submit a [pull request](https://github.com/kiere
 * [Israel Ministry of Health COVID-19 Dashboard](https://datadashboard.health.gov.il/COVID-19/general)
 * [GOV.UKCoronavirus (COVID-19) in the UK](https://coronavirus.data.gov.uk/details/healthcare)
 * [European Centre for Disease Prevention and Control hospital and ICU admission rates and current occupancy for COVID-19](https://www.ecdc.europa.eu/en/publications-data/download-data-hospital-and-icu-admission-rates-and-current-occupancy-covid-19)
+* [Unified COVID-19 Dataset](https://github.com/CSSEGISandData/COVID-19_Unified-Dataset)
 
 ## Mixed and Other Data Types
 * [IIIT-D Multi-sensor Optical and Latent Fingerprint (MOLF)](http://www.iab-rubric.org/resources/molf.html)

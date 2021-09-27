@@ -12,6 +12,7 @@ New datasets are welcome please submit a [pull request](https://github.com/kiere
 * [CIFAR-10](https://www.cs.toronto.edu/~kriz/cifar.html)
 * [Aerial dataset of floating objects (AFO)](https://www.kaggle.com/jangsienicajzkowy/afo-aerial-dataset-of-floating-objects)
 * [NEON Tree Crowns Dataset](https://www.kaggle.com/jangsienicajzkowy/afo-aerial-dataset-of-floating-objects)
+* [2021 IEEE GRSS Data Fusion Contest: Track DSE - Detection of Settlements without Electricity](https://www.grss-ieee.org/community/technical-committees/2021-ieee-grss-data-fusion-contest-track-dse/)
 
 ## Text
 * [Total-Text-Dataset](https://github.com/cs-chan/Total-Text-Dataset)

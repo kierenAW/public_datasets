@@ -22,7 +22,7 @@ New datasets are welcome please submit a [pull request](https://github.com/kiere
 
 ## Video
 * [Motion-based Segmentation and Recognition Dataset](https://mi.eng.cam.ac.uk/research/projects/VideoRec/CamVid/)
-
+* [Kinetics - URL links of up to 650,000 video clips](https://deepmind.com/research/open-source/kinetics)
 ## 3D Data
 * [3DMatch](http://3dmatch.cs.princeton.edu/)
 * [Princeton ModelNet](https://modelnet.cs.princeton.edu/)

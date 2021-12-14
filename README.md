@@ -14,6 +14,7 @@ New datasets are welcome please submit a [pull request](https://github.com/kiere
 * [NEON Tree Crowns Dataset](https://www.kaggle.com/jangsienicajzkowy/afo-aerial-dataset-of-floating-objects)
 * [2021 IEEE GRSS Data Fusion Contest: Track DSE - Detection of Settlements without Electricity](https://www.grss-ieee.org/community/technical-committees/2021-ieee-grss-data-fusion-contest-track-dse/)
 * [iSAID: A Large-scale Dataset for Instance Segmentation in Aerial Images](https://captain-whu.github.io/iSAID/dataset.html)
+* [COCO - Common Objects in Context](https://cocodataset.org/)
 
 ## Text
 * [Total-Text-Dataset](https://github.com/cs-chan/Total-Text-Dataset)
